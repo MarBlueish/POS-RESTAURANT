@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "NovoRestaurante": {
+      "commandName": "Project",
+      "nativeDebugging": true,
+      "sqlDebugging": true
+    }
+  }
+}
